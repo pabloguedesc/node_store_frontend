@@ -30,6 +30,7 @@ Edição de produto
 Edição de compra
 
 <img src="./public/img/edicao_de_compra.png" width="500px">
+
 ### Requisitos para utilização do sistema
   - Node
   - Backend do sistema (api)
