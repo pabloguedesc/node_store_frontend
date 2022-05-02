@@ -1,0 +1,35 @@
+.card {
+  background-color: var(--light-gray);
+  color: var(--black);
+  padding: 16px;
+  border-radius: 6px;
+  margin: 5px 0px;
+  cursor: pointer;
+}
+
+.field {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.card_field{
+  display: flex;
+}
+
+.title_field {
+  margin-right: 1vw;
+  font-weight: 600;
+}
+
+.description_field {
+  font-weight: 400;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn {
+  margin: 10px 0px 0px 8px;
+}

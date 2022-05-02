@@ -1,0 +1,9 @@
+.btn-edit {
+  background-color: var(--blue);
+  color: var(--white);
+  padding: 4px 8px;
+  border: none;
+  font-weight: 500;
+  border-radius: 4px;
+  cursor: pointer;
+}
