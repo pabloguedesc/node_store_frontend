@@ -29,7 +29,7 @@ Edição de produto
 
 Edição de compra
 
-<img src="./public/img/edicao_de_compra.png" width="500px">
+<img src="./public/images/edicao_de_compra.png" width="500px">
 
 ### Requisitos para utilização do sistema
   - Node
